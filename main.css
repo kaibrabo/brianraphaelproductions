@@ -1,0 +1,40 @@
+body {
+    background-image: url(cliffs.JPG);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(0, 0, 6, .9);
+    text-align: center;
+    text-shadow: 1px 1px 2px black; 
+    margin: 0;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, .9);
+}
+
+.tagline {
+    margin: 25px;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, .9);
+}
+
+#icons i {
+    padding: 0 60px;
+}
+
+h1 {
+    color: rgba(0, 120, 230, 0.9);
+}
+
+a {
+    color: rgba(0, 120, 230, 0.9);
+    text-decoration: none;
+}
+
+p {
+    width: auto;
+}
